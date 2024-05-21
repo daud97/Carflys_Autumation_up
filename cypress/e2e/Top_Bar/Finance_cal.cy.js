@@ -60,4 +60,4 @@ export function Calcualtor(){
         
         // .clear().type('40')
         
-}
+}   
